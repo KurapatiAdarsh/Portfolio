@@ -2,7 +2,7 @@ import React from 'react';
 import { Box, Typography, Grid, Card, CardContent, CardMedia, Container } from '@mui/material';
 import { useSpring, animated } from 'react-spring';
 import { useInView } from 'react-intersection-observer';
-import { Adarshcompany, Banky, Event, Guess, Mern, Portfolio } from '../assets/images';
+import { Adarshcompany, Banky, Event, Guess, Mern, portfolio } from '../assets/images';
 
 
 // Sample project data
@@ -40,7 +40,7 @@ const projects = [
   {
     title: 'PORTFOLIO',
     description: 'A Portfolio developed using Rect.js.',
-    image:Portfolio,
+    image:portfolio,
     link:'#home',
   },
 ];
