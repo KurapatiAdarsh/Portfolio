@@ -9,7 +9,7 @@ import Guess from './Guess.png';
 import Adarshcompany from './Adarshcompany.png';
 import Event from './Event.png';
 import Mern from './Mern.png';
-import Portfolio from './Portfolio.png';
+import portfolio from './portfolio.png';
 // Export the image
 export {
     AdarshProfile,
@@ -22,5 +22,5 @@ export {
     Adarshcompany,
     Event,
     Mern,
-    Portfolio,
+    portfolio,
 };
